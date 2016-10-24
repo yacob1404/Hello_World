@@ -9,7 +9,7 @@ total mess. This is because that is true, I will be hopefully setting up my acco
   
   2. Update ReadMe files for as many programs as possible (this will make it easy to come back to them for help later).
   
-  3. Check programs to make sure they all work (they all should). I fthey do not simply drop them into a linux VM for simplicity and fix then re-upload. This step could take a long time but is a great oppurtunity to improve my debugging skills.
+  3. Check programs to make sure they all work (they all should). If they do not simply drop them into a linux VM for simplicity and fix, then re-upload. This step could take a long time but is a great oppurtunity to improve my debugging skills.
   
   4. Clean things up and make sure everything is well organized and intuitive.
   
